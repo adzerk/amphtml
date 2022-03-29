@@ -126,7 +126,7 @@
     "lolex": "2.3.1",
     "markdown-link-check": "3.1.6",
     "minimatch": "3.0.4",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "mocha": "4.1.0",
     "moment": "2.20.1",
     "morgan": "1.9.0",
